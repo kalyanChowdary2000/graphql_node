@@ -1,4 +1,3 @@
-//mongodb+srv://181fa04376:Kalyan%40150@cluster0.q839a.mongodb.net/sample
 
 const express = require('express');
 const { graphqlHTTP } = require('express-graphql');
