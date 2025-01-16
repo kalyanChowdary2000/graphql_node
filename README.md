@@ -28,7 +28,6 @@ This repository provides a basic GraphQL setup with an Express server. You can t
 
 ## Example Queries and Mutations
 
-### 1. Fetch All Users
 
 **Request:**
 ```json
