@@ -14,9 +14,13 @@ This repository provides a basic GraphQL setup with an Express server. You can t
     npm install
     ```
 
-3. **Start the server:**
+3. **Start the basic express server:**
     ```bash
     npm run basic
+    ```
+3. **Start the express with mongo server:**
+    ```bash
+    npm run mongo
     ```
 
 4. The server will run at:

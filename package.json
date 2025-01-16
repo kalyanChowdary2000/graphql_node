@@ -1,19 +1,20 @@
 {
-    "name": "graphql_node",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "basic":"cd express_example_basic && node index.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.21.2",
-      "express-graphql": "^0.12.0",
-      "graphql": "^16.10.0"
-    }
+  "name": "graphql_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "basic": "cd express_example_basic && node index.js",
+    "mongo": "cd mongo_express && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.10.0",
+    "mongoose": "^8.9.5"
   }
-  
+}
